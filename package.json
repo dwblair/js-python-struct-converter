@@ -1,0 +1,23 @@
+{
+  "name": "js-python-struct-converter",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pstruct.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwblair/js-python-struct-converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwblair/js-python-struct-converter/issues"
+  },
+  "homepage": "https://github.com/dwblair/js-python-struct-converter#readme",
+  "dependencies": {
+    "structjs": "^0.2.2"
+  }
+}
